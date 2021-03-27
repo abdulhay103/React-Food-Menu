@@ -1,1 +1,2 @@
-# react-projects-5-menu
+# react-food-menu matcher
+Inspired by FreeCodeCamp.org
